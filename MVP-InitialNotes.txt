@@ -17,6 +17,9 @@ https://observablehq.com/@d3/candlestick-chart/2
 https://observablehq.com/@tmcw/finance-data-options
 https://observablehq.com/@ee2dev/2-visualizing-stock-performance
 
+# Python samples for data collection
+https://github.com/LastAncientOne/SimpleStockAnalysisPython/blob/master/07_SimpleYahooStockScrape.ipynb
+
 # Project Concept
 1) Enter in stock data to start, search for good fixed monthly returns for 75yo retired (dad)
 2) Feed in ML Studio local data set for analysis
