@@ -23,6 +23,8 @@ https://observablehq.com/@ee2dev/2-visualizing-stock-performance
 3) Calculate 1,3,5 year summary and benchmark on SP500
   + Risk from M2 moneny supply
   + Risk behind from CPI and energy shocks 
+  + Output in XLS / CSV format for archive (with AS OF date)
+  + CF, IS, BS  would be good as well - for data files.
 
 
 
