@@ -1,0 +1,28 @@
+#
+#  Inital setup notes - web resources 
+#  20250413-140222-MST
+#
+#
+
+# Self data source
+https://observablehq.com/@sbrunasso
+
+
+# Stock Data Sources 
+https://www.alphavantage.co/
+API Docs:   https://www.alphavantage.co/documentation/  
+
+#Juypter Notebook options
+https://observablehq.com/@d3/candlestick-chart/2
+https://observablehq.com/@tmcw/finance-data-options
+https://observablehq.com/@ee2dev/2-visualizing-stock-performance
+
+# Project Concept
+1) Enter in stock data to start, search for good fixed monthly returns for 75yo retired (dad)
+2) Feed in ML Studio local data set for analysis
+3) Calculate 1,3,5 year summary and benchmark on SP500
+  + Risk from M2 moneny supply
+  + Risk behind from CPI and energy shocks 
+
+
+
